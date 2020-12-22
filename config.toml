@@ -1,0 +1,4 @@
+baseURL = "linkqtech.github.io"
+languageCode = "en-us"
+title = "Linkq Tech"
+theme = "ananke"
