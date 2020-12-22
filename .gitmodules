@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:linkqtech/linkqtech.github.io.git
+	branch = main
