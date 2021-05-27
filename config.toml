@@ -1,4 +1,4 @@
-baseURL = "linkqtech.github.io"
+baseURL = "/"
 languageCode = "en-us"
-title = "Linkq Tech"
+title = ""
 theme = "ananke"
